@@ -7,7 +7,7 @@ import Home from './pages/Home';
 import {CreateAccount} from './pages/CreateAccount';
 import {Login} from './pages/Login';
 import {Deposit} from './pages/Deposit';
-import {Withdraw} from './pages/Deposit';
+import {Withdraw} from './pages/Withdraw';
 import {Alldata} from './pages/Alldata';
 import Navbar from './components/Navbar';
 import { BankProvider } from './utils/BankContext';

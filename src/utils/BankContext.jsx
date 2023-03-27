@@ -36,6 +36,7 @@ export const BankProvider = ({ children }) => {
             bank,
             addUser,
             setLoggedInUser,
+            setBank
         }}>
             {children}
         </BankContext.Provider>
